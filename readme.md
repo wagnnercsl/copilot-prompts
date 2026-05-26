@@ -22,20 +22,20 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <p align="center">Full Stack</p>
+        <a href="https://github.com/wagnnercsl">
+        <img src="https://avatars0.githubusercontent.com/u/44724645?v=3&s=115" alt="@wagnnercsl"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 9y+ em sistemas comerciais com REACT e NODE.JS.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟 Desenvolvedor Full Stack - NTT DATA
       <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    👨‍💻 Foco em desenvolvimento Full Stack com React e Node.js
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/wagnner-leivas/" 
       align="center">
            <img 
             align="center" 
@@ -43,7 +43,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href="https://www.instagram.com/wagleivas/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
@@ -59,52 +59,94 @@
 <br/>
 <br/>
 
-## 💻 Sobre o Projeto
+---
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+# 🚀 Plano de Carreira — Full Stack Specialist (React • Node • React Native • Python)
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Este repositório documenta minha jornada de evolução profissional rumo ao nível **Especialista Full Stack**, com foco nas tecnologias **React**, **Node.js**, **React Native** e **Python**.  
+Com 9 anos de experiência como desenvolvedor, meu objetivo é aprofundar minha senioridade técnica, dominar arquitetura moderna e construir soluções escaláveis para web e mobile.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 🎯 Objetivo da Carreira
 
-- _Exemplo_:
+Evoluir de **Pleno** para **Especialista**, priorizando:
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+- Profundidade técnica  
+- Arquitetura escalável  
+- Performance e boas práticas  
+- Domínio avançado da stack JavaScript + Python  
+- Construção de projetos robustos e multiplataforma  
 
-- [Outros pré-requisitos, se aplicável]
+---
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+## 🧠 Stack de Especialização
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+- **React** — componentização avançada, otimização e padrões modernos  
+- **Node.js** — arquitetura limpa, performance, escalabilidade  
+- **React Native** — apps mobile performáticos e integrados  
+- **Python** — automações, serviços auxiliares e integrações  
 
-- [Lista das habilidades principais a serem desenvolvidas]
+---
 
-  - [Subhabilidades relacionadas, se aplicável]
+## 🗺️ Roadmap de 90 Dias
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Um plano estruturado em 3 fases:
 
-## 🎯 Objetivos e Resultados Esperados
+### **1. Fundamentos Avançados (React + Node)**
+- Arquitetura limpa, DDD e padrões de projeto  
+- Performance em Node.js  
+- React avançado e criação de design system  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+### **2. Prática Intensiva (React Native + Integrações)**
+- App mobile integrado ao backend  
+- Python para automações e serviços assíncronos  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+### **3. Especialização e Portfólio**
+- CI/CD completo  
+- Observabilidade (logs, métricas, tracing)  
+- Documentação técnica nível especialista  
 
-<!--START_SECTION:footer-->
+---
 
-<br />
-<br />
+## 🏗️ Projeto de Portfólio
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+**Plataforma Full Stack + Mobile com Arquitetura Escalável**
+
+Inclui:
+
+- API Node.js modular e testada  
+- Frontend React com design system  
+- App React Native consumindo a mesma API  
+- Serviço Python para automações  
+- Pipeline CI/CD + monitoramento  
+
+Este projeto demonstra domínio técnico e visão arquitetural — pilares de um especialista.
+
+---
+
+## 💬 Foco em Entrevistas Técnicas
+
+Treinamento baseado em:
+
+- Arquitetura escalável  
+- Performance em Node.js  
+- Otimização em React e React Native  
+- Integrações distribuídas com Python  
+- Debugging avançado e análise de problemas complexos  
+
+---
+
+## 🎓 Trilha de Estudos
+
+- Formação Full Stack Developer (DIO)  
+- Formação React Native (DIO)  
+- Estudos complementares em arquitetura, performance e escalabilidade  
+
+---
+
+## ✨ Sobre esta Jornada
+
+Este roadmap representa meu compromisso em me tornar um **Especialista Full Stack**, aprofundando minha capacidade de projetar, construir e otimizar sistemas completos — do backend ao mobile — com foco em qualidade, performance e arquitetura moderna.
+
+---
